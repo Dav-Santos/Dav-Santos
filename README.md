@@ -20,7 +20,7 @@
 
 - ▶️ I post my advances on my linkedin
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, React.**
 
 - ⚡ Fun fact **Oneye 😜**
 
