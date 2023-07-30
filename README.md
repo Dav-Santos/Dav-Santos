@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently loonking for work
 
-- ▶️ I post my advances on my linkedin (https://www.linkedin.com/in/david-santos-a3aa24182/)
+- ▶️ I post my advances on my linkedin
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
