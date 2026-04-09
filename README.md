@@ -20,9 +20,8 @@
 
 - ▶️ I post my advances on my linkedin
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React.**
+- 💬 Ask me about **C#, Unity, .NET, JavaScript, HTML, CSS, React.**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <!--
 
@@ -37,8 +36,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
